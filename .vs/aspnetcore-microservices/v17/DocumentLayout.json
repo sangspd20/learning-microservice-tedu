@@ -1,0 +1,2231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|solutionrelative:src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|solutionrelative:src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\global.json||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|solutionrelative:global.json||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\middlewares\\errorwrappingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\middlewares\\errorwrappingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241022033853_add_document_no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241022033853_add_document_no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getordersbyusername\\getordersbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getordersbyusername\\getordersbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:src\\services\\ordering\\ordering.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\behaviours\\performancebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\behaviours\\performancebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\commands\\updateorder\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\common\\createorupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\common\\createorupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\common\\createorupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\common\\createorupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\configurations\\eventbussettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\eventbussettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\configurations\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\configurations\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\configurations\\backgroundjobsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\configurations\\backgroundjobsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54203827-AC11-4AB2-929B-D2527CC8214B}|src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\eventbus\\eventbus.messages\\integrationevents\\interfaces\\ibasketcheckoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54203827-AC11-4AB2-929B-D2527CC8214B}|src\\BuildingBlocks\\EventBus\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.messages\\integrationevents\\interfaces\\ibasketcheckoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\configurations\\smtpemailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\configurations\\smtpemailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\services\\ismtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\services\\ismtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\services\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\services\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\configurations\\iemailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\configurations\\iemailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|D:\\Study\\AspnetCoreMicroTedu\\RepoKietPham\\tedu-aspnetcore-microservices-training\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getordersbyusername\\getordersbyusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\features\\v1\\orders\\queries\\getordersbyusername\\getordersbyusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B14FB-A044-4797-A306-2B130A102E30}|src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering\\ordering.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\persistence\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\persistence\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\seedwork\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\seedwork\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\seedwork\\pagingrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\seedwork\\pagingrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\seedwork\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\seedwork\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\seedwork\\apisuccessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\seedwork\\apisuccessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\seedwork\\apierrorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\seedwork\\apierrorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\common\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\common\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF9ED82-8F69-41A6-AF0A-3EDD925436A9}|src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:src\\services\\ordering\\ordering.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241008102110_add_order_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241008102110_add_order_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\enums\\order\\eorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\enums\\order\\eorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\enums\\inventory\\edocumenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\enums\\inventory\\edocumenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.domain\\exceptions\\invalidentitytypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:src\\services\\ordering\\ordering.domain\\exceptions\\invalidentitytypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.domain\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:src\\services\\ordering\\ordering.domain\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F78DBECF-F4F6-4CCE-BBF2-B95D46C9C18E}|src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:src\\services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\persistence\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\persistence\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44EF9042-C2CD-4378-97F4-818D457241E9}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\common\\serializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\common\\serializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\common\\interfaces\\iserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\common\\interfaces\\iserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2731755-EF27-4B3F-AD56-7BE45E03CFCB}|src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\common.logging\\serilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2731755-EF27-4B3F-AD56-7BE45E03CFCB}|src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj|solutionrelative:src\\buildingblocks\\common.logging\\serilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\common\\repositoryquerybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\common\\repositoryquerybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\persistence\\customercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\persistence\\customercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\persistence\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\persistence\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|C:\\Users\\F88\\Downloads\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\hangfire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|solutionrelative:src\\services\\hangfire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\hangfire.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|solutionrelative:src\\services\\hangfire.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\migrations\\20240829080823_init_productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\migrations\\20240829080823_init_productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\shared\\dtos\\product\\createorupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848A9819-4105-41C5-877C-AB2C3D3743B7}|src\\BuildingBlocks\\Shared\\Shared.csproj|solutionrelative:src\\buildingblocks\\shared\\dtos\\product\\createorupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\infrastructure\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A958B236-886D-459E-BDF0-14DC1804283B}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\persistence\\productcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\persistence\\productcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\entities\\catalogproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\entities\\catalogproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\domains\\entityauditbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\domains\\entityauditbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\hangfire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B040E2CE-7D44-4512-8A2E-0F4D5F6E1489}|src\\Services\\Hangfire.API\\Hangfire.API.csproj|solutionrelative:src\\services\\hangfire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\domains\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\domains\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\domains\\interfaces\\iusertracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\domains\\interfaces\\iusertracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\domains\\interfaces\\idatetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\domains\\interfaces\\idatetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\buildingblocks\\contracts\\domains\\interfaces\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE27ACC1-0F18-4747-8DA3-6FEB8128F285}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\domains\\interfaces\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF606D79-5CCF-489C-8F2F-3AE7D0E9ADFB}|src\\Services\\Inventory.API\\Inventory.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF606D79-5CCF-489C-8F2F-3AE7D0E9ADFB}|src\\Services\\Inventory.API\\Inventory.API.csproj|solutionrelative:src\\services\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF606D79-5CCF-489C-8F2F-3AE7D0E9ADFB}|src\\Services\\Inventory.API\\Inventory.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF606D79-5CCF-489C-8F2F-3AE7D0E9ADFB}|src\\Services\\Inventory.API\\Inventory.API.csproj|solutionrelative:src\\services\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|Solution Items{9758F1E8-E4C2-4F14-BCB5-BAD67C3326D3}|C:\\Users\\F88\\Downloads\\scratch.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\product.api\\migrations\\20240831042607_product_set_no_unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C6EBF1-D2B6-4183-9A25-E70A06214D91}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\migrations\\20240831042607_product_set_no_unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\customer.api\\migrations\\20240831113054_init_customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC530D4-6AB3-4BCE-827A-DB5AE67C742D}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\migrations\\20240831113054_init_customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|d:\\study\\aspnetcoremicrotedu\\aspnetcore-microservices\\src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241008085440_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E589C-8141-488A-85F0-7FC2A543A9D2}|src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:src\\services\\ordering\\ordering.infrastructure\\persistence\\migrations\\20241008085440_init_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Serilogger.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Serilogger.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Common.Logging\\Serilogger.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Serilogger.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Common.Logging\\Serilogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:21:35.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basket.API",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T04:40:18.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T04:02:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Product.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T04:49:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Dockerfile",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Dockerfile",
+              "RelativeToolTip": "src\\Services\\Product.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T04:25:05.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.override.yml",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "src\\docker-compose.override.yml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwJgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-04T04:52:21.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ordering.API.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T15:22:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Product.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T08:33:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Dockerfile",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Dockerfile",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T08:57:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T04:28:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Basket.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T08:54:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T04:28:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:40:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Dockerfile",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Dockerfile",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T04:50:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Customer.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T08:55:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.yml",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\docker-compose.yml",
+              "RelativeToolTip": "src\\docker-compose.yml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-04T04:48:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241022033853_Add_Document_No.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241022033853_Add_Document_No.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241022033853_Add_Document_No.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241022033853_Add_Document_No.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241022033853_Add_Document_No.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:38:53.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Customer.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T04:43:50.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.API.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Customer.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Customer.API.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Customer.API.csproj",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Customer.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T10:59:33.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:38:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:33:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:52:53.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T05:04:53.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasketCheckout.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\BasketCheckout.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Entities\\BasketCheckout.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\BasketCheckout.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Entities\\BasketCheckout.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:51:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:41:59.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ordering.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T03:47:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorWrappingMiddleware.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Middlewares\\ErrorWrappingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Middlewares\\ErrorWrappingMiddleware.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Middlewares\\ErrorWrappingMiddleware.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Middlewares\\ErrorWrappingMiddleware.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:43:26.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:45:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ordering.Application.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T03:46:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:31:53.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Models\\OrderDto.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Models\\OrderDto.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Models\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:28:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetOrdersByUserNameQuery.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQuery.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQuery.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQuery.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:32:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wCwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:49:29.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:32:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:48:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:22:05.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateOrderCommandValidator.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:30:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PerformanceBehaviour.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\PerformanceBehaviour.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\PerformanceBehaviour.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\PerformanceBehaviour.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\PerformanceBehaviour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:17:53.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnhandledExceptionBehaviour.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:21:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:50:25.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T11:55:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:49:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeleteOrderCommand.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:39:03.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:30:50.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\DTOs\\Order\\CreateOrderDto.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\DTOs\\Order\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:40:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteOrderCommandHandler.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:38:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateOrderCommandHandler.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:32:30.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateOrderCommandValidator.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:30:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateOrUpdateCommand.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateCommand.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateCommand.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:43:48.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateOrUpdateValidator.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateValidator.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateValidator.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateValidator.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Common\\CreateOrUpdateValidator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:43:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Extensions\\HostExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\HostExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Extensions\\HostExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:30:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EventBusSettings.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\EventBusSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\EventBusSettings.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\EventBusSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\EventBusSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:40:48.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Extensions\\ApplicationExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Extensions\\ApplicationExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Extensions\\ApplicationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:49:01.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:42:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\CacheSettings.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\CacheSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\CacheSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:21:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BackgroundJobSettings.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\BackgroundJobSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\BackgroundJobSettings.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\BackgroundJobSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\BackgroundJobSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:21:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Configurations\\ApiConfiguration.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Configurations\\ApiConfiguration.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Configurations\\ApiConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:21:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:30:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IBasketCheckoutEvent.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\IntegrationEvents\\Interfaces\\IBasketCheckoutEvent.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.Messages\\IntegrationEvents\\Interfaces\\IBasketCheckoutEvent.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\EventBus\\EventBus.Messages\\IntegrationEvents\\Interfaces\\IBasketCheckoutEvent.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.Messages\\IntegrationEvents\\Interfaces\\IBasketCheckoutEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:03:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:43:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:43:38.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ISmtpEmailService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Services\\ISmtpEmailService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Services\\ISmtpEmailService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Services\\ISmtpEmailService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Services\\ISmtpEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:56:50.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Services\\IEmailService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:56:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Services\\SmtpEmailService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Services\\SmtpEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:00:15.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SMTPEmailSetting.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Configurations\\SMTPEmailSetting.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Configurations\\SMTPEmailSetting.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Configurations\\SMTPEmailSetting.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Configurations\\SMTPEmailSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:57:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Services\\Email\\MailRequest.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Services\\Email\\MailRequest.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Services\\Email\\MailRequest.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Services\\Email\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:58:24.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\ConfigureServices.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:17:16.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IEmailSettings.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Configurations\\IEmailSettings.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Configurations\\IEmailSettings.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Configurations\\IEmailSettings.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Configurations\\IEmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:49:44.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\RepoKietPham\\tedu-aspnetcore-microservices-training\\.dockerignore",
+              "RelativeDocumentMoniker": "..\\RepoKietPham\\tedu-aspnetcore-microservices-training\\.dockerignore",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\RepoKietPham\\tedu-aspnetcore-microservices-training\\.dockerignore",
+              "RelativeToolTip": "..\\RepoKietPham\\tedu-aspnetcore-microservices-training\\.dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T04:35:13.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetOrdersByUserNameQueryHandler.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQueryHandler.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQueryHandler.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Features\\V1\\Orders\\Queries\\GetOrdersByUserName\\GetOrdersByUserNameQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:39:19.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:45:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:32:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:27:07.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\RequestParameters.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\RequestParameters.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\SeedWork\\RequestParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:34:42.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PagingRequestParameters.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\PagingRequestParameters.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\PagingRequestParameters.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\PagingRequestParameters.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\SeedWork\\PagingRequestParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:34:41.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\PagedList.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\PagedList.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\PagedList.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\SeedWork\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:34:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ApiSuccessResult.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\ApiSuccessResult.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\ApiSuccessResult.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\ApiSuccessResult.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\SeedWork\\ApiSuccessResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:33:38.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ApiErrorResult.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\ApiErrorResult.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\SeedWork\\ApiErrorResult.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\SeedWork\\ApiErrorResult.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\SeedWork\\ApiErrorResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:33:35.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:28:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\MappingProfile.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:02:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:24:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:23:18.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAywBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:49:24.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20241008102110_Add_Order_Status.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008102110_Add_Order_Status.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008102110_Add_Order_Status.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008102110_Add_Order_Status.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008102110_Add_Order_Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:21:11.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:20:21.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EOrderStatus.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Enums\\Order\\EOrderStatus.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Enums\\Order\\EOrderStatus.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Enums\\Order\\EOrderStatus.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Enums\\Order\\EOrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:19:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EDocumentType.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Enums\\Inventory\\EDocumentType.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\Enums\\Inventory\\EDocumentType.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Enums\\Inventory\\EDocumentType.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\Enums\\Inventory\\EDocumentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:19:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "InvalidEntityTypeException.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\InvalidEntityTypeException.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\InvalidEntityTypeException.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\InvalidEntityTypeException.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\InvalidEntityTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:17:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:17:51.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "20241008085440_Init_Db.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008085440_Init_Db.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008085440_Init_Db.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008085440_Init_Db.cs",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\Migrations\\20241008085440_Init_Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:54:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Ordering.Domain.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeToolTip": "src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T08:20:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:25:31.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:54:54.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Extensions\\ApplicationExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\ApplicationExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Extensions\\ApplicationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:46:16.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Extensions\\HostExtensions.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Extensions\\HostExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Extensions\\HostExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:50:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "SerializeService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:36:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:51:56.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:51:56.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:13:38.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T08:40:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ISerializeService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:35:45.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:34:17.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:56:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "RepositoryQueryBase.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\RepositoryQueryBase.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\RepositoryQueryBase.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\RepositoryQueryBase.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\RepositoryQueryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:30:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\MappingProfile.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:17:36.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:33:34.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:34:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T10:58:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CustomerContextSeed.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:37:10.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20240831113054_Init_CustomerDB.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Migrations\\20240831113054_Init_CustomerDB.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Migrations\\20240831113054_Init_CustomerDB.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Migrations\\20240831113054_Init_CustomerDB.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Migrations\\20240831113054_Init_CustomerDB.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:30:54.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Persistence\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Persistence\\CustomerContext.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Persistence\\CustomerContext.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Persistence\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:09:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Customer.API\\Entities\\Customer.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:07:40.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:51:35.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Hangfire.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T04:49:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Hangfire.API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:58:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\F88\\Downloads\\README.md",
+              "ToolTip": "C:\\Users\\F88\\Downloads\\README.md",
+              "ViewState": "AQIAACEAAAAAAAAAAOB/wEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-31T04:55:55.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T03:44:37.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Product.API.csproj",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Product.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Product.API.csproj",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Product.API.csproj",
+              "RelativeToolTip": "src\\Services\\Product.API\\Product.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T08:50:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20240831042607_Product_Set_No_Unique.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Migrations\\20240831042607_Product_Set_No_Unique.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Migrations\\20240831042607_Product_Set_No_Unique.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Migrations\\20240831042607_Product_Set_No_Unique.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Migrations\\20240831042607_Product_Set_No_Unique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:26:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:54:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CreateOrUpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:01:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20240829080823_Init_ProductDB.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Migrations\\20240829080823_Init_ProductDB.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Migrations\\20240829080823_Init_ProductDB.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Migrations\\20240829080823_Init_ProductDB.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Migrations\\20240829080823_Init_ProductDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:08:23.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\UnitOfWork.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Common\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:27:23.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:53:05.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ProductContextSeed.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Persistence\\ProductContextSeed.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Persistence\\ProductContextSeed.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Persistence\\ProductContextSeed.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Persistence\\ProductContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:14:59.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "CatalogProduct.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Entities\\CatalogProduct.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Entities\\CatalogProduct.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\Entities\\CatalogProduct.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Entities\\CatalogProduct.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:04:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Hangfire.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Hangfire.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Hangfire.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T08:58:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "EntityAuditBase.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\EntityAuditBase.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domains\\EntityAuditBase.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\EntityAuditBase.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Domains\\EntityAuditBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:20:33.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\EntityBase.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domains\\EntityBase.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\EntityBase.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Domains\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:20:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "IUserTracking.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IUserTracking.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IUserTracking.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IUserTracking.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IUserTracking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:19:40.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "IDateTracking.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IDateTracking.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IDateTracking.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IDateTracking.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IDateTracking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:19:29.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IEntityBase.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IEntityBase.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Domains\\Interfaces\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:19:20.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Product.API\\WeatherForecast.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:43:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Inventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.API\\Program.cs",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Inventory.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Inventory.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:56:11.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Inventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.API\\appsettings.json",
+              "ToolTip": "D:\\Study\\AspnetCoreMicroTedu\\aspnetcore-microservices\\src\\Services\\Inventory.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Inventory.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T08:56:04.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "scratch.md",
+              "DocumentMoniker": "C:\\Users\\F88\\Downloads\\scratch.md",
+              "ToolTip": "C:\\Users\\F88\\Downloads\\scratch.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-03T05:13:02.507Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
