@@ -5,7 +5,8 @@ services:
     image: mcr.microsoft.com/mssql/server:2019-latest 
 
   productdb:
-    image: mysql:8.0.29
+    image: mysql:latest
+    platform: linux/amd64 #open this line if you use mac m1, m2
 
   customerdb:
     image: postgres:alpine3.16
