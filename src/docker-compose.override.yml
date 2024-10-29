@@ -16,13 +16,16 @@ services:
   #productdb mysql
   productdb:
     container_name: productdb
+    ## do not use this command in Windows
+#    command: [ "--default-authentication-plugin=mysql_native_password" ]
     environment:
-        MYSQL_ROOT_PASSWORD: "Passw0rd!"
+      MYSQL_ROOT_PASSWORD: "PassWOrd"
+      MYSQL_DATABASE: "ProductDB"
     restart: always
     volumes:
-        - mysql_data:/var/lib/mysql
+      - mysql_data:/var/lib/mysql
     ports:
-        - "3306:3306" 
+      - "3306:3306"
 
   #customerdb postgres
   customerdb:
@@ -58,8 +61,9 @@ services:
     container_name: rabbitmq
     restart: always
     ports:
-        - "5672:5672" 
-        - "15672:15672" 
+      - "5672:5672" 
+      - "15672:15672"
+    hostname: rabbitmq
    
   pgadmin:
     container_name: pgadmin
@@ -107,7 +111,7 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=http://+:80
-      - "ConnectionStrings:DefaultConnectionString=Server=productdb;Port=3306;Database=ProductDB;Uid=root;Pwd=Passw0rd!;"
+      - "ConnectionStrings:DefaultConnectionString=Server=productdb;Database=ProductDB;Uid=root;Pwd=PassWOrd"
     depends_on:
       - productdb
     ports:
@@ -119,7 +123,7 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=http://+:80
-      - "ConnectionStrings:DefaultConnectionString=Server=customerdb;Port=5432;Database=CustomerDb;User Id=admin;Pwd=admin1234;"
+      - "ConnectionStrings:DefaultConnectionString=Server=customerdb;Database=CustomerDb;User Id=admin;Pwd=admin1234;"
     depends_on:
       - customerdb
     ports:
